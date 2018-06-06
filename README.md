@@ -3,6 +3,8 @@ Introducing Blockchain-based Web Browser
 
 Framechain is released under the terms of the MIT license.
 
+[View English:](https://github.com/hupiyingwu/FrameChain/blob/master/WhitePaper.pdf)
+
 摘要：框架链是一个基于区块链原理的网页浏览器，它的源代码是公开的。任何人无需拥有服务器就可以在框架链上发布自己的网页。每个网页都保存在整个P2P网络中，数字签名技术能保证网页不被篡改，P2P网络能让网站免疫绝大部分网络攻击。站长只需要写好代码，系统会自动宣传站长的网站。正常浏览网页的用户会获得代币奖励。用户获得代币后可以发布他们自己的网页、赞助他们喜欢的站长以及出售多余的代币；同时站长也能获得现金收入。
 
 简介：现在我们只需要在搜索引擎中搜索关键词就可以访问我们喜欢的网页。浏览器会根据我们提供的网址链接到一个服务器，然后从服务器上下载网页文件。绝大部分网站的利润通过我们浏览广告获得，另一小部分则通过在线出售商品获得，但是这仍具有与生俱来的缺陷。
