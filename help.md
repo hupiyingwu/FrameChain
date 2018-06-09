@@ -6,7 +6,7 @@ Send tokens to an address:
 
 Mining:
 
-    command{type=ming;key=[string];}tip{to=[address];money=[tokens];}
+    command{type=mining;key=[string];}tip{to=[address];money=[tokens];}
 
 Publish a page:
 
