@@ -7,7 +7,7 @@ Framechain is released under the terms of the MIT license.
 
 [View help](https://github.com/hupiyingwu/FrameChain/blob/master/help.md)
 
-[Chinese](https://github.com/hupiyingwu/FrameChain/blob/master/Chinese.md)
+[Chinese Introduction](https://github.com/hupiyingwu/FrameChain/blob/master/Chinese.md)
 
 ## What is Framechain?
 
