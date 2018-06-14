@@ -3,6 +3,8 @@ Introducing Blockchain-based Web Browser
 
 Framechain is released under the terms of the MIT license.
 
+[Show license](https://github.com/hupiyingwu/FrameChain/blob/master/LICENSE)
+
 [White paper/English Introduction](https://github.com/hupiyingwu/FrameChain/blob/master/WhitePaper.pdf)
 
 [Chinese Introduction](https://github.com/hupiyingwu/FrameChain/blob/master/Chinese.md)
