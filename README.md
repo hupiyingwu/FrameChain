@@ -9,11 +9,13 @@ Framechain is released under the terms of the MIT license.
 
 ## Introduction
 
-[White paper/English Introduction](https://github.com/hupiyingwu/FrameChain/blob/master/WhitePaper.pdf)
+[View the White Paper/English Introduction](https://github.com/hupiyingwu/FrameChain/blob/master/WhitePaper.pdf)
 
 [Chinese Introduction](https://github.com/hupiyingwu/FrameChain/blob/master/Chinese.md)
 
 ## What is Framechain?
+
+### open source,transparent,decentralized
 
 Framechain is a blockchain-based web browser. Its source code is public.Everyone can publish thier own web pages without a server on Framechain.Each web page is saved in the P2P network of Framechain.Users view pages namally will be rewarded with tokens. 
 
