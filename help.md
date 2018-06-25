@@ -1,4 +1,5 @@
-FrameChain is written in VB
+Language:Visual Basic
+
 ## Command list:
 
 Send tokens to an address:
