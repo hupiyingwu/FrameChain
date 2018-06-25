@@ -1,5 +1,7 @@
 Language:Visual Basic
 
+Please share your noods and trackers on https://github.com/hupiyingwu/FrameChain/issues
+
 ## Command list:
 
 Send tokens to an address:
