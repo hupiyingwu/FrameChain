@@ -1,4 +1,4 @@
-# FrameChain
+﻿# FrameChain
 Introducing Blockchain-based Web Browser
 
 Framechain is released under the terms of the MIT license.
@@ -22,3 +22,7 @@ Framechain is a blockchain-based web browser. Its source code is public.Everyone
 ## Parts of the Solution are Code Complete
 
 The key code has been written，meaning it’s currently in place.But you have to modify part of the code to work properly.
+
+## Timeline
+
+### 8018/6/29 Fix a bug,added code annotations
