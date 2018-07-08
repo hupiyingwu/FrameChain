@@ -5,7 +5,11 @@ Framechain is released under the terms of the MIT license.
 
 [Show license](https://github.com/hupiyingwu/FrameChain/blob/master/LICENSE)
 
-[View help](https://github.com/hupiyingwu/FrameChain/blob/master/help.md)
+### Language:Visual Basic
+
+## Download
+
+[Click here](https://github.com/hupiyingwu/FrameChain/blob/master/FrameChain(EXE%2BCODE).zip)
 
 ## Introduction
 
@@ -53,6 +57,8 @@ Send a command to a tracker
 
 Users can send commands to the tracker and tip the tracker.The tracker will transmit commands to other nodes of the tracker and other users.Everyone can creat a tracker and take some tips
 
+### Share your tracker:[https://github.com/hupiyingwu/FrameChain/issues/1](https://github.com/hupiyingwu/FrameChain/issues/1)
+
 ### Nodes
 
 You may need NAT traversal to connect to other nodes.If you don't want this, you can only be an ordinary node and connect to P2P network through tracker.
@@ -82,6 +88,18 @@ Send result of a page:
 Publish a tracker/seed:
 
     command{type=[tracker/seed];url=[url];}tip{to=[address];money=[tokens];}
+    
+## Contributing
+
+Anyone is welcome to contribute to FrameChain's codebase! If you have a fix or code change, feel free to submit it as a pull request directly to the "master" branch. Thank you.
+
+## Supporting the project
+
+[Buy me a coffee](https://www.buymeacoffee.com/IgqiDWONr)
+
+[Mining for me](https://cnhv.co/7710u)
+
+ If you want to join our efforts, the easiest thing you can do is support the project financially. 
 
 ## Parts of the Solution are Code Complete
 
