@@ -43,7 +43,7 @@ Everyone has the ability to publish websites in the FrameChain without any serve
 
 ## Network
 
-(https://hupiyingwu.github.io/FrameChain/image/network.png)
+![Network](https://hupiyingwu.github.io/FrameChain/image/network.png)
 
 ### Trackers
 
