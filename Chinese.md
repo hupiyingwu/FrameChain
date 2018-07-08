@@ -95,7 +95,6 @@ Send result of a page(有bug):
 
 ## 支持我的项目
 
-[Buy me a coffee](https://www.buymeacoffee.com/IgqiDWONr)
 
 [为我挖矿（需要关闭反挖矿软件）](https://cnhv.co/7710u)
 
