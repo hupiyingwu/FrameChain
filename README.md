@@ -13,7 +13,7 @@ Framechain is released under the terms of the MIT license.
 
 ## Introduction
 
-[View the White Paper/English Introduction](https://github.com/hupiyingwu/FrameChain/blob/master/WhitePaper.pdf)
+[View the White Paper](https://github.com/hupiyingwu/FrameChain/blob/master/WhitePaper.pdf)
 
 [Chinese Introduction](https://github.com/hupiyingwu/FrameChain/blob/master/Chinese.md)
 
@@ -27,19 +27,19 @@ Framechain is a blockchain-based web browser. Its source code is public.Everyone
 
 #### The flow of FrameChain is more real
 
-    Users can only be rewarded with tokens if they bring real income to advertisers.They can't get tokens through mechanical reading advertisements.It is not true to read advertisements because of the purpose of tokens.
+Users can only be rewarded with tokens if they bring real income to advertisers.They can't get tokens through mechanical reading advertisements.It is not true to read advertisements because of the purpose of tokens.
 
 #### FrameChain is secure
 
-    FrameChain is a decentralized system, meaning it is secure P2P web browser operated by a network of users. The code are confirmed by distributed consensus and then immutably recorded on the blockchain. Third-parties do not need to be trusted to keep your websites safe.
+FrameChain is a decentralized system, meaning it is secure P2P web browser operated by a network of users. The code are confirmed by distributed consensus and then immutably recorded on the blockchain. Third-parties do not need to be trusted to keep your websites safe.
     
 #### FrameChain is untraceable
 
-    The addresses of websites and users are obfuscated by default. Movements on the blockchain cannot be linked to a particular user or real-world identity.
+The addresses of websites and users are obfuscated by default. Movements on the blockchain cannot be linked to a particular user or real-world identity.
 
 #### FrameChain is useful
 
-    Everyone has the ability to publish websites in the FrameChain without any servers.The system will make sure that the websites in FrameChain is safe.When users view a web page, the system recommends other web pages to them.
+Everyone has the ability to publish websites in the FrameChain without any servers.The system will make sure that the websites in FrameChain is safe.When users view a web page, the system recommends other web pages to them.
 
 ## Network
 
