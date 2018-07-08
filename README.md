@@ -97,7 +97,7 @@ Anyone is welcome to contribute to FrameChain's codebase! If you have a fix or c
 
 ## Supporting the project
 
-[Buy me a coffee](https://www.buymeacoffee.com/IgqiDWONr)
+
 
 [Mining for me](https://cnhv.co/7710u)
 
