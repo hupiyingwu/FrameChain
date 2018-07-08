@@ -43,6 +43,8 @@ Everyone has the ability to publish websites in the FrameChain without any serve
 
 ## Network
 
+(https://hupiyingwu.github.io/FrameChain/image/network.png)
+
 ### Trackers
 
 All trackers are a HTTP server.You have to download blockchains from some trackers.
