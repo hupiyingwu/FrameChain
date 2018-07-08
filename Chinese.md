@@ -77,11 +77,11 @@
 
     command{type=software;money=[代币奖励];hash=[hash(网页返回结果)];code=[加密后的网页代码];nextaddress=[找零地址];}tip{to=[tracker收款地址];money=[小费];}
 
-设置网页返回结果（有bug）:
+发送访问请求:
 
     command{type=app;hash=[网页的ID];nextaddress=[找零地址];}tip{to=[tracker收款地址];money=[小费];}
 
-Send result of a page(有bug):
+发送网页返回结果:
 
     command{type=get;hash=[hash(publisher's command)];result=[result of a page];nextaddress=[next address];}tip{to=[address];money=[tokens];}
 
