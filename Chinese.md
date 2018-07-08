@@ -93,7 +93,7 @@ Send result of a page(有bug):
 
 欢迎每个人对代码仓库做出贡献! 如果您有修复或代码更改，请将它作为请求提交给“主”分支。万分感谢。
 
-## Supporting the project
+## 支持我的项目
 
 [Buy me a coffee](https://www.buymeacoffee.com/IgqiDWONr)
 
