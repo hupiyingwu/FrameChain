@@ -1,3 +1,112 @@
+﻿# 框架链
+基于区块链原理的网页浏览器
+
+在MIT许可条件下发布框架链
+
+[查看MIT许可证](https://github.com/hupiyingwu/FrameChain/blob/master/LICENSE)
+
+### 开发语言:Visual Basic
+
+## 下载
+
+[点击下载](https://github.com/hupiyingwu/FrameChain/blob/master/FrameChain(EXE%2BCODE).zip)
+
+## 简介
+
+[白皮书](https://github.com/hupiyingwu/FrameChain/blob/master/WhitePaper.pdf)
+
+## 什么是框架链？
+
+### 开源，透明，去中心化
+
+框架链是一个基于区块链原理的网页浏览器。它是开源的。任何人无需拥有服务器就可以在框架链上搭建自己的网站。每一个网页都被保存在点对点网络中。正常浏览网页上广告的用户可以获得代币奖励
+
+## 框架链有什么特别之处?
+
+#### 流量是真实的
+
+用户只有在为广告主带来收入后才能获得代币奖励。但是机械的阅读广告无法获得任何奖励因为出于赚钱的目的去阅读广告不是真实的。
+
+#### 框架链是安全的
+
+框架链是一个去中心化的系统，这意味着它是由用户网络操作的安全P2P网络浏览器。网页代码代码通过分布式一致性确认，然后不可变地记录在块链上，无需第三方信任机构来保护你网站的安全。
+    
+#### 框架链上的网站是不可追踪的
+
+网站和用户的地址会被混淆加密，但不影响网站正常访问。任何人在框架链上的任何举动都不会暴露出他在真实世界的身份，即使是他自愿的。
+
+#### 框架链很有用（只能这么说了）
+
+每个人都有能力在没有服务器的情况下在框架链上发布网站，而系统负责保护网站的安全。当用户浏览一个网页使，系统会自动向他推荐其他类似的网页。
+
+## 网络
+
+![Network](https://hupiyingwu.github.io/FrameChain/image/network.png)
+
+### Trackers
+
+每一个tracker都相当于一个HTTP服务器，你需要从tracker上下载区块。
+
+获取区块的总数:url/maxinum.txt
+
+下载单个区块("n" 是一个自然数):url/block[n].txt
+
+向tracker发送指令：
+
+    url/command=[command]
+
+用户可以向tracker发送指令但必须支付小费，然后tracker会向其他节点和其他tracker转发指令。每一个人都可以成为tracker然后收取小费。
+
+### 在这分享你的tracker:[https://github.com/hupiyingwu/FrameChain/issues/1](https://github.com/hupiyingwu/FrameChain/issues/1)
+
+### 节点
+
+你可能需要内网穿透才能连接到其他节点。如果你不喜欢这样，你只能成为一个普通的节点通过tracker连接整个网络。
+
+## 指令列表:
+
+向一个地址发送代币:
+
+    command{type=cash;money=[代币数量，可以是小数];to=[对方的收款地址];}tip{to=[tracker的收款地址，用于支付小费];money=[小费];}
+
+挖矿:
+
+    command{type=mining;key=[幸运数字];}tip{to=[tracker收款地址];money=[小费];}
+
+发布一个网页:
+
+    command{type=software;money=[代币奖励];hash=[hash(网页返回结果)];code=[加密后的网页代码];nextaddress=[找零地址];}tip{to=[tracker收款地址];money=[小费];}
+
+设置网页返回结果（有bug）:
+
+    command{type=app;hash=[网页的ID];nextaddress=[找零地址];}tip{to=[tracker收款地址];money=[小费];}
+
+Send result of a page(有bug):
+
+    command{type=get;hash=[hash(publisher's command)];result=[result of a page];nextaddress=[next address];}tip{to=[address];money=[tokens];}
+
+公布一个tracker:
+
+    command{type=[tracker/seed];url=[url];}tip{to=[address];money=[tokens];}
+    
+## 贡献
+
+欢迎每个人对代码仓库做出贡献! 如果您有修复或代码更改，请将它作为请求提交给“主”分支。万分感谢。
+
+## Supporting the project
+
+[Buy me a coffee](https://www.buymeacoffee.com/IgqiDWONr)
+
+[为我挖矿（需要关闭反挖矿软件）](https://cnhv.co/7710u)
+
+ 如果你想加入我们的努力，你能做的最简单的事情就是在经济上支持这个项目。
+
+## 部分代码已经开发完成
+
+关键代码已经开发完成，意味着框架链随时可以就位。你可以适当修改一下框架链的代码。
+
+# 白皮书中文版：
+
 ## 摘要：
 
 框架链是一个基于区块链原理的网页浏览器，它的源代码是公开的。任何人无需拥有服务器就可以在框架链上发布自己的网页。每个网页都保存在整个P2P网络中，数字签名技术能保证网页不被篡改，P2P网络能让网站免疫绝大部分网络攻击。网站管理员只需要写好代码，系统会自动宣传站长的网站。正常浏览网页的用户会获得代币奖励。用户获得代币后可以发布他们自己的网页、赞助他们喜欢的网站以及出售多余的代币；同时网站也能获得现金收入。
