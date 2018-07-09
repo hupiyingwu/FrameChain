@@ -9,7 +9,7 @@
 
 ## 下载
 
-[点击下载](https://github.com/hupiyingwu/FrameChain/blob/master/FrameChain(EXE%2BCODE).zip)
+[点击下载](https://hupiyingwu.github.io/FrameChain/FrameChain(EXE%2BCODE).zip)
 
 ## 简介
 
