@@ -31,7 +31,7 @@ Users can only be rewarded with tokens if they bring real income to advertisers.
 
 #### FrameChain is secure
 
-FrameChain is a decentralized system, meaning it is secure P2P web browser operated by a network of users. The code are confirmed by distributed consensus and then immutably recorded on the blockchain. Third-parties do not need to be trusted to keep your websites safe.
+FrameChain is a decentralized system, meaning it is secure P2P web browser operated by a network of users. The code is confirmed by distributed consensus and then immutably recorded on the blockchain. Third-parties do not need to be trusted to keep your websites safe.
     
 #### FrameChain is untraceable
 
