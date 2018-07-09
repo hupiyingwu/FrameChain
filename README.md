@@ -7,9 +7,7 @@ Framechain is released under the terms of the MIT license.
 
 ### Language:Visual Basic
 
-### Alerts: 
-
-<font color=red size=72>frmMain.frm's HTTP server has a bug</font>
+#### Alerts: frmMain.frm's HTTP server has a bug
 
 ## Download
 
