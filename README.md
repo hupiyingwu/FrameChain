@@ -9,7 +9,7 @@ Framechain is released under the terms of the MIT license.
 
 ## Download
 
-[Click here](https://github.com/hupiyingwu/FrameChain/blob/master/FrameChain(EXE%2BCODE).zip)
+[Click here](https://hupiyingwu.github.io/FrameChain/FrameChain(EXE%2BCODE).zip)
 
 ## Introduction
 
@@ -112,4 +112,6 @@ The key code has been written，meaning it’s currently in place.But you have t
 ### 2018/6/29 Fix a bug,added code annotations
 
 ### 2018/7/8 Update the function of "rsajia","rsajie","js"
+
+### 2018/7/9 Add menu
 
